@@ -1,0 +1,9 @@
+
+0
+java:S1220""Move this file to a named package.
+u
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "average".(Κ„ϋ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ε΅―ϋÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ο…κ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ώÿοσ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(‹ΰΥ7

@@ -1,0 +1,8 @@
+
+0
+java:S1220""Move this file to a named package.
+d
+java:S1126	"BReplace this if-then-else statement by a single method invocation.(æÉ±İøÿÿÿÿ8»ŒËŸ”1
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(ı·‡‘øÿÿÿÿ8ÛúÉŸ”1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ûãÁùùÿÿÿÿ8¾ŒËŸ”1

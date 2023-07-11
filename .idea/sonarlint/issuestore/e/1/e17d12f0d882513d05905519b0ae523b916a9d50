@@ -1,0 +1,11 @@
+
+0
+java:S1220""Move this file to a named package.
+c
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(÷öïŠúÿÿÿÿ
+e
+java:S5361	"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¹óÇ¨8³‹±£”1
+d
+java:S5361
+"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ãð“8³‹±£”1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(”“î€8Ž‹³£”1

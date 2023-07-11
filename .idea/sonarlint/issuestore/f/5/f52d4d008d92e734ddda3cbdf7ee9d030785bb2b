@@ -1,0 +1,34 @@
+
+N
+java:S11536"1Directly append the argument of String.valueOf().(ÃúÈà8ŞÍŒı“1
+N
+java:S11537"1Directly append the argument of String.valueOf().(¤®÷›8ßÀ‹ı“1
+N
+java:S11538"1Directly append the argument of String.valueOf().(…õÕ8áÀ‹ı“1
+S
+java:S11539"1Directly append the argument of String.valueOf().(€´÷áşÿÿÿÿ8ãÀ‹ı“1
+S
+java:S1153:"1Directly append the argument of String.valueOf().(š‰‹úÿÿÿÿÿ8åÀ‹ı“1
+N
+java:S1153;"1Directly append the argument of String.valueOf().(Áÿç´8çÀ‹ı“1
+N
+java:S1153<"1Directly append the argument of String.valueOf().(öËÀô8éÀ‹ı“1
+N
+java:S1153="1Directly append the argument of String.valueOf().(¤¥üË8ëÀ‹ı“1
+N
+java:S1153>"1Directly append the argument of String.valueOf().(ß×Ñ¨8ëÀ‹ı“1
+N
+java:S1153?"1Directly append the argument of String.valueOf().(ÕÖšÇ8ëÀ‹ı“1
+0
+java:S1220""Move this file to a named package.
+<	java:S131""Add a default case to this switch.(³›¯°ùÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(ÃúÈà
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(¤®÷›8õÀ‹ı“1
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(…õÕ8öÀ‹ı“1
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(€´÷áşÿÿÿÿ8÷À‹ı“1
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(š‰‹úÿÿÿÿÿ8ùÀ‹ı“1
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(Áÿç´8ûÀ‹ı“1
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(öËÀô8ıÀ‹ı“1
+U	java:S106="9Replace this use of System.out or System.err by a logger.(¤¥üË8€Á‹ı“1
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(ß×Ñ¨8‚Á‹ı“1
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(ÕÖšÇ8Á‹ı“1
